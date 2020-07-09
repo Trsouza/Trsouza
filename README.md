@@ -1,10 +1,16 @@
-<h2 align="center"> ꧁ Olá meu nome Tathiane, ꧂ </h2>
+<h2 align="center"> ꧁ Olá, meu nome é 𝓣𝓪𝓽𝓱𝓲𝓪𝓷𝓮! ꧂ </h2>
 
 <br/>
 
 🎓 Sou Graduanda em Ciência da Computação ⌛
 
 💜 Tenho paixão por aprender e compartilhar meu conhecimento com outras pessoas
+
+🎀 Além de programação gosto de: 
+ - Viajar 🚙 ✈ 🚎 
+ - Assistir filmes 🎥
+ - Poker ♠ ♣ ♥ ♦
+ - Arriscar umas receitas na cozinha 🍰 🍕 🍔 🍮
 
 📅 Atualmente:
   - Atuo na área de Desenvolvimento Web
