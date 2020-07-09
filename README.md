@@ -1,4 +1,14 @@
-### Hi there 👋
+### ꧁ Olá meu nome Tathiane, ꧂
+
+<br/>
+
+🎓 Sou Graduanda em Ciência da Computação ⌛
+
+💜 Tenho paixão por aprender e compartilhar meu conhecimento com outras pessoas
+
+📅 Atualmente:
+  - Atuo na área de Desenvolvimento Web
+  - Realizo estudos nos campos de Visão Computacional e Data Science
 
 <!--
 **Trsouza/Trsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
