@@ -1,4 +1,4 @@
-### ꧁ Olá meu nome Tathiane, ꧂
+<h2 align="center"> ꧁ Olá meu nome Tathiane, ꧂ </h2>
 
 <br/>
 
