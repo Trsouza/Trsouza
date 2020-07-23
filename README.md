@@ -4,7 +4,7 @@
 
 🎓 Sou Graduanda em Ciência da Computação ⌛
 
-💜 Tenho paixão por aprender e compartilhar meu conhecimento com outras pessoas
+💜 Tenho paixão por aprender e compartilhar meus conhecimentos com outras pessoas
 
 🎀 Além de programação gosto de: 
  - Viajar 🚗 ✈️ 🏍️ 🚌 
