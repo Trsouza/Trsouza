@@ -1,4 +1,4 @@
-<h2 align="center"> ꧁ Olá, meu nome é 𝓣𝓪𝓽𝓱𝓲𝓪𝓷𝓮! ꧂ </h2>
+<h2 align="center"> ꧁ Olá, meu nome é 𝑻𝒂𝒕𝒉𝒊𝒂𝒏𝒆! ꧂ </h2>
 
 <br/>
 
@@ -7,14 +7,16 @@
 💜 Tenho paixão por aprender e compartilhar meu conhecimento com outras pessoas
 
 🎀 Além de programação gosto de: 
- - Viajar 🚙 ✈ 🚎 
- - Assistir filmes 🎥
+ - Viajar 🚗 ✈️ 🏍️ 🚌 
+ - Assistir filmes 🎥 
  - Poker ♠ ♣ ♥ ♦
  - Arriscar umas receitas na cozinha 🍰 🍕 🍔 🍮
 
 📅 Atualmente:
   - Atuo na área de Desenvolvimento Web
   - Realizo estudos nos campos de Visão Computacional e Data Science
+
+𝑂𝑏𝑟𝑖𝑔𝑎𝑑𝑎 𝑝𝑒𝑙𝑎 𝑣𝑖𝑠𝑖𝑡𝑎, 𝑏𝑦𝑒!
 
 <!--
 **Trsouza/Trsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
