@@ -2,7 +2,7 @@
 
 <br/>
 
-🎓 Sou Graduanda em Ciência da Computação ⌛
+🎓 Sou Graduada em Ciência da Computação ⌛
 
 💜 Tenho paixão por aprender e compartilhar meus conhecimentos com outras pessoas
 
@@ -14,7 +14,6 @@
 
 📅 Atualmente:
   - Atuo na área de Desenvolvimento Web
-  - Realizo estudos nos campos de Visão Computacional e Data Science
 
 𝑂𝑏𝑟𝑖𝑔𝑎𝑑𝑎 𝑝𝑒𝑙𝑎 𝑣𝑖𝑠𝑖𝑡𝑎, 𝑏𝑦𝑒!
 
