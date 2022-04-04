@@ -2,7 +2,7 @@
 
 <br/>
 
-🎓 Sou Graduada em Ciência da Computação ⌛
+🎓 Sou Graduada em Ciência da Computação
 
 💜 Tenho paixão por aprender e compartilhar meus conhecimentos com outras pessoas
 
