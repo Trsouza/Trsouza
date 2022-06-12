@@ -4,14 +4,6 @@
 
 🎓 Sou Graduada em Ciência da Computação
 
-💜 Tenho paixão por aprender e compartilhar meus conhecimentos com outras pessoas
-
-🎀 Além de programação gosto de: 
- - Viajar 🚗 ✈️ 🏍️ 🚌 
- - Assistir filmes 🎥 
- - Poker ♠ ♣ ♥ ♦
- - Arriscar umas receitas na cozinha 🍰 🍕 🍔 🍮
-
 📅 Atualmente:
   - Atuo na área de Desenvolvimento Web
 
