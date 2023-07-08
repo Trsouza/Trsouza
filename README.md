@@ -2,7 +2,7 @@
 
 <br/>
 
-🎓 Sou Graduada em Ciência da Computação
+🎓 Graduada em Ciência da Computação
 
 📅 Atualmente:
   - Atuo na área de Desenvolvimento Web
