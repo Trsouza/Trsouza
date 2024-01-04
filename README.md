@@ -4,8 +4,7 @@
 
 🎓 Graduada em Ciência da Computação
 
-📅 Atualmente:
-  - Atuo na área de Desenvolvimento Web
+📅 Atualmente trabalha na área de Desenvolvimento Web
 
 𝑂𝑏𝑟𝑖𝑔𝑎𝑑𝑎 𝑝𝑒𝑙𝑎 𝑣𝑖𝑠𝑖𝑡𝑎, 𝑏𝑦𝑒!
 
